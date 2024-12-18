@@ -633,5 +633,254 @@
             "tripAdvisorRating": 4.5,
             "tripAdvisorRatingUrl": "http://www.tripadvisor.com/img/cdsi/img2/ratings/traveler/4.5-12345-4.gif"
         }
+    ],
+    "cars": [
+        {
+            "id": 1,
+            "model": {
+                "description": "ETIOS 5P X 1.5 LTS",
+                "brand": {
+                    "name": "Toyota"
+                },
+                "doors": 5,
+                "passengers": 5,
+                "bigLuggage": 1,
+                "smallLuggage": 1,
+                "steering": "Hidráulica",
+                "gearbox": "Manual",
+                "multimedia": "SI",
+                "airConditioner": "SI",
+                "name": "Etios 5P X 1.5 LTS",
+                "category": {
+                    "name": "Económico MT (C)",
+                    "franchise": 600000,
+                    "franchiseDamage": 1786875,
+                    "franchiseRollover": 4462500,
+                    "franchiseTheft": 1786875,
+                    "franchiseHail": 1815000
+                }
+            },
+            "fromDate": "2025-01-07T09:45:00Z",
+            "toDate": "2025-01-11T09:45:00Z",
+            "deliveryPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "returnPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "price": 312812.25,
+            "currency": "ARS"
+        },
+        {
+            "id": 2,
+            "model": {
+                "description": "Cronos Attractive 1.3",
+                "brand": {
+                    "name": "Fiat"
+                },
+                "doors": 4,
+                "passengers": 5,
+                "bigLuggage": 2,
+                "smallLuggage": 1,
+                "steering": "HIDRAULICA",
+                "gearbox": "Manual",
+                "multimedia": "SI",
+                "airConditioner": "SI",
+                "category": {
+                    "name": "Sedan Intermedio MT (H1)",
+                    "franchise": 600000,
+                    "franchiseDamage": 1786875,
+                    "franchiseRollover": 4462500,
+                    "franchiseTheft": 1786875,
+                    "franchiseHail": 1815000
+                }
+            },
+            "fromDate": "2025-01-07T09:45:00Z",
+            "toDate": "2025-01-11T09:45:00Z",
+            "deliveryPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "returnPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "price": 344611.1,
+            "currency": "ARS"
+        },
+        {
+            "id": 3,
+            "model": {
+                "franchise": 68550,
+                "franchiseDamage": 0,
+                "franchiseRollover": 0,
+                "franchiseTheft": 0,
+                "franchiseHail": 0,
+                "brand": {
+                    "name": "Toyota"
+                },
+                "doors": 4,
+                "passengers": 5,
+                "bigLuggage": 2,
+                "smallLuggage": 2,
+                "steering": "HIDRAULICA",
+                "gearbox": "Automático",
+                "multimedia": "SI",
+                "airConditioner": "SI",
+                "description": "Corolla XLI 1.8 CVT",
+                "name": "Corolla XLI 1.8 CVT",
+                "category": {
+                    "name": "Sedan Grande AT (Z)",
+                    "franchise": 1800000,
+                    "franchiseDamage": 3198750,
+                    "franchiseRollover": 8073000,
+                    "franchiseTheft": 3198750,
+                    "franchiseHail": 1815000
+                }
+            },
+            "fromDate": "2025-01-07T09:45:00Z",
+            "toDate": "2025-01-11T09:45:00Z",
+            "deliveryPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "returnPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "price": 541452.93,
+            "currency": "ARS"
+        },
+        {
+            "id": 4,
+            "model": {
+                "description": "Hilux 4x4 DC DX 2.4 TDI",
+                "brand": {
+                    "name": "Toyota"
+                },
+                "doors": 4,
+                "passengers": 5,
+                "bigLuggage": 3,
+                "smallLuggage": 2,
+                "steering": "Hidráulica",
+                "gearbox": "Manual",
+                "multimedia": "Sí",
+                "airConditioner": "Sí",
+                "name": "Hilux 4x4 DC DX 2.4 TDI",
+                "category": {
+                    "name": "Camioneta 4X4 MT (J)",
+                    "franchise": 2600000,
+                    "franchiseDamage": 3198750,
+                    "franchiseRollover": 8073000,
+                    "franchiseTheft": 3198750,
+                    "franchiseHail": 1815000
+                }
+            },
+            "fromDate": "2025-01-07T09:45:00Z",
+            "toDate": "2025-01-11T09:45:00Z",
+            "deliveryPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "returnPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "price": 868896.89,
+            "currency": "ARS"
+        },
+        {
+            "id": 5,
+            "model": {
+                "description": "Yaris 5P XS 1.5 ",
+                "brand": {
+                    "name": "Toyota"
+                },
+                "doors": 5,
+                "passengers": 5,
+                "bigLuggage": 1,
+                "smallLuggage": 2,
+                "steering": "SI",
+                "gearbox": "Manual",
+                "multimedia": "SI",
+                "airConditioner": "SI",
+                "name": "Yaris 5P XS 1.5 ",
+                "category": {
+                    "id": 16,
+                    "name": "Compacto MT (H)",
+                    "imagePath": "https://rently.blob.core.windows.net/hertz/CarCategory/4bf0ec77-b5f1-4950-9de8-643c4415d9ec.jpg",
+                    "principalModelId": 162,
+                    "franchise": 600000,
+                    "franchiseDamage": 1786500,
+                    "franchiseRollover": 4462500,
+                    "franchiseTheft": 1786800,
+                    "franchiseHail": 1815000
+                }
+            },
+            "fromDate": "2025-01-07T09:45:00Z",
+            "toDate": "2025-01-11T09:45:00Z",
+            "deliveryPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "returnPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "price": 328711.31,
+            "currency": "ARS"
+        },
+        {
+            "id": 6,
+            "model": {
+                "description": "Cronos Drive 1.3 AT",
+                "brand": {
+                    "name": "Fiat"
+                },
+                "doors": 4,
+                "passengers": 5,
+                "bigLuggage": 2,
+                "smallLuggage": 1,
+                "steering": "Hidráulica",
+                "gearbox": "Automática",
+                "multimedia": "Sí",
+                "airConditioner": "Sí",
+                "name": "Cronos Drive 1.3 AT",
+                "category": {                    
+                    "name": "Sedan Intermedio AT (K)",                    
+                    "franchise": 600000,
+                    "franchiseDamage": 1786500,
+                    "franchiseRollover": 4837500,
+                    "franchiseTheft": 1786500,
+                    "franchiseHail": 1815000
+                }
+            },
+            "fromDate": "2025-01-07T09:45:00Z",
+            "toDate": "2025-01-11T09:45:00Z",
+            "deliveryPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "returnPlace": {
+                "name": "Rosario Centro",
+                "city": "Rosario",
+                "country": "Argentina"
+            },
+            "price": 422161.64,
+            "currency": "ARS"
+        }
     ]
 }
