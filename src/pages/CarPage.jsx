@@ -50,7 +50,7 @@ const CarPage = () => {
                   <span title='Gearbox'>
                     <TbManualGearbox className='icon-[mdi-light--home] text-4xl mr-2'/>                   
                   </span>
-              
+                  <p className='text-left text-lg'> {car.model.gearbox}</p>
                   
                 </div>                
               </div>              
